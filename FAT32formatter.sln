@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FAT32formatter", "FAT32formatter\FAT32formatter.pyproj", "{27EA137B-0130-4DAF-BE26-5FA96B1D3727}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27EA137B-0130-4DAF-BE26-5FA96B1D3727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27EA137B-0130-4DAF-BE26-5FA96B1D3727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F50894FE-5155-42AB-AC0E-10CDE7B2F55E}
+	EndGlobalSection
+EndGlobal
